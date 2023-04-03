@@ -6,3 +6,4 @@ Android Studio
 
 
 2)Crie um aplicativo que mande um SMS após 15 segundos do clique no botão.
+<img width="139" alt="image" src="https://user-images.githubusercontent.com/53456180/229610369-116c92f7-2183-4a2a-a003-494db325e98c.png">
